@@ -1,1 +1,1 @@
-Model Train is where the Model was trained, and Model Use is its inference. In total, the CNN has about 25% precision and 75% recall, making it a suitable diagnosis method for first-stage cancer detection.
+Model Train is where the Model was trained, and Model Use is its inference. The CNN has 25% precision and 75% recall at a threshold of 0.33, making it a suitable diagnosis method for first-stage cancer detection.
